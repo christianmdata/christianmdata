@@ -84,7 +84,7 @@ That experience gives me a practical mindset when working with data systems — 
 
 ## 📫 Let’s Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/christian-martinez-projects/
+- 💼 LinkedIn: https://www.linkedin.com/in/chrismdata/
 - 📬 Open to entry-level data roles, internships, and data-focused opportunities  
 
 ---
