@@ -2,7 +2,7 @@
 
 🎯 Future **Data Engineer / Data Scientist**  
 ⚙️ Former Field Engineer turned data problem-solver  
-📍 California, USA  
+📍 Sillicon Valley, California, USA  
 
 ---
 
