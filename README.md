@@ -26,6 +26,17 @@ I enjoy turning messy, real-world data into clear insights and usable systems.
 
 ## 📌 Featured Projects
 
+### 📡 Telecom Customer Churn Prediction  
+**End-to-end machine learning project predicting customer churn in a telecom dataset.**  
+- Data preparation and merging multiple datasets into a unified dataframe  
+- Exploratory data analysis to identify patterns related to churn  
+- Feature engineering and preprocessing for modeling  
+- Training and evaluating classification models to predict customer retention  
+
+🔗 https://github.com/christianmdata/telecom-churn-prediction  
+
+---
+
 ### 🚕 Taxi Demand Forecasting  
 **Time-series forecasting project predicting hourly taxi order demand.**  
 - Data resampling and time-based feature engineering  
